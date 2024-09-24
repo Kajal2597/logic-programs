@@ -1,0 +1,30 @@
+2. Objects and Methods Overloading
+1. Java Program to create a calculator and Return a Value from a Method.
+   Explanation:
+   We make a method named input which is used to get input from the user. We also make a method named add which is used to perform addition and return the result back to the input method where we finally print the result.
+
+
+2. Java Program to Count Number of Objects Created for Class
+   Explanation:Whenever an object is made of a class, its constructor is invoked. Whenever the constructor runs we increment the counter value. Hence the number of objects created of a class equals the counter value.
+
+
+3. Java Program to create an Area of triangle and rectangle and Passing and Returning Objects in Java
+   Explanation:
+Enter length and breadth of the rectangle as input. After that we create an object of that class and pass the reference variable to two different methods. Now we calculate the area for two different objects and return them to the main method. Hence we get two different areas as output.
+
+4.  Java Program to Show the Nesting of Methods
+   Explanation: Enter length, breadth and height as input. After that we first call the volume method. From the volume method we call the area method and from the area method we call perimeter method. Hence we get the perimeter, area and volume of the cuboid as output.
+
+5. Java Program to Calculate Sum of Two Byte Values using Type Casting
+   Explanation: This is a Java Program to Calculate Sum of Two Byte Values Using Type Casting. Type casting in Java is to cast one type, a class or interface, into another type i.e. another class or interface.
+Enter any two byte values as input. After that we first convert these two bytes into integers using type casting and then we add those values and get the desired output.
+
+6. Java Program to Find Arithmetic Sum by Passing Argument Using Method Overloading
+   Explanation:
+This is a Java Program to Find Arithmetic Sum of 2 or 3 or 4 Variables by Passing Arguments using Method Overloading. Two or more methods within the same class that share the same name but with different parameter declarations are called overloaded methods, and the process is referred to as method overloading.
+Here we define a class with three different methods with the same name but different number of parameters. Now these methods can be called depending upon the number of arguments passed. Hence we get three different values as output.
+
+7. Java Program to Find Area of Square, Rectangle and Circle using Method Overloading
+Explanation
+This is a Java Program to Find Area of Square, Rectangle and Circle using Method Overloading.
+We declare three methods of the same name but with different numbers of arguments or with different data types. Now when we call these methods using objects, corresponding methods will be called as per the number of arguments or their data types.
